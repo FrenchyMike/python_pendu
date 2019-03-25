@@ -1,0 +1,1 @@
+[{"nom": "toto", "points": "8"}, {"nom": "Mick", "points": "76"}, {"nom": "tata", "points": "10"}, {"nom": "tutu", "points": "8"}, {"nom": "mick", "points": "7"}]
